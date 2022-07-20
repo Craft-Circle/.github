@@ -1,4 +1,4 @@
-![banner](https://drive.google.com/file/d/1wjgojzj5I3_72pstPMejGO5SeJhczJTT/view?usp=sharing)
+![banner](./CraftCircleLogoBanner-19.png)
 
 ![ruby](https://img.shields.io/badge/Ruby-2.7.4-red)
 ![rails](https://img.shields.io/badge/Rails-5.2.8-g)
