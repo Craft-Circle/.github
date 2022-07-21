@@ -16,7 +16,7 @@ An app where a user can post their arts and craft supplies that they are no long
 
 ## The App
 
-You can find the app on [heroku].
+You can find the app on [heroku](https://craft-circle.herokuapp.com).
 
 Click [here](https://github.com/Craft-Circle/craft_circle_be) to check out the backend repo.
 
